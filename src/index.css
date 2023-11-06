@@ -1,0 +1,80 @@
+:root{
+  --Dark-blue: hsl(204, 53%, 12%);
+  --bright-cyan: hsl(192, 94%, 47%);
+  font-size: 14px;
+}
+
+body{
+  background-color: hsl(180, 1%, 17%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  font-family:  cursive;
+}
+
+.main-container{
+  position: relative;
+  background-color: hsl(0, 2%, 53%);
+  top: 15vh;
+  align-self: center;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 0.2em solid hsl(204, 53%, 12%);
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 0;
+}
+
+
+.quote{
+  font-size: 22px;
+  font-family: 'Lobster', cursive;
+  color: hsl(204, 53%, 12%);
+  opacity: 1;
+  animation: appear 1.5s ease-in-out forwards;
+}
+
+.line{
+  width: 90%;
+  border: solid 1px hsl(204, 53%, 12%);;
+}
+
+.signature{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bolder;
+  font-size: 24px;
+  color: hsl(204, 53%, 12%);
+}
+
+.btn{
+  align-self: center;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  border: 0.2rem solid hsl(204, 53%, 12%);
+  background-color: hsl(192, 61%, 66%);
+  font-family: 'Lobster', cursive;
+}
+
+
+@keyframes appear{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .main-container{
+    width: 80%;
+  }
+}
