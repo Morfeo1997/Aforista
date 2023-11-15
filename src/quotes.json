@@ -956,7 +956,853 @@
         "id":160,
         "author":"Friedrich Nietzsche",
         "quote": "Entre el sentido de culpabilidad y el placer, siempre gana el placer."
+    },
+
+    {
+        "id":161,
+        "author":"Voltaire",
+        "quote":"Piensa por ti mismo y deja que otros gocen del privilegio de hacerlo también."
+    },
+
+    {
+        "id":162,
+        "author":"Voltaire",
+        "quote":"Al ser incapaz de hacer que la gente sea más razonable, he preferido ser feliz lejos de ellos."
+    },
+
+    {
+        "id":163,
+        "author":"Voltaire",
+        "quote":"La perfección se alcanza poco a poco, lentamente; requiere la mano del tiempo."
+    },
+
+    {
+        "id":164,
+        "author":"Voltaire",
+        "quote":"Si este es el mejor de los mundos posibles, ¿Entonces cómo están los demás?"
+    },
+
+    {
+        "id":165,
+        "author":"Voltaire",
+        "quote":"Hay verdades que no son para todos los hombres, ni para todos los tiempos."
+    },
+
+    {
+        "id":166,
+        "author":"Voltaire",
+        "quote":"Para tener éxito en el mundo no es suficiente ser estúpido, también hay que ser educado."
+    },
+
+    {
+        "id":167,
+        "author":"Voltaire",
+        "quote":"El más feliz de todas las vidas es una soledad ocupada."
+    },
+
+    {
+        "id":168,
+        "author":"Voltaire",
+        "quote":"Con libros es como con los hombres: un número muy pequeño juega un gran papel."
+    },
+
+    {
+        "id":169,
+        "author":"Voltaire",
+        "quote":"Las mentes difieren aún más que las caras."
+    },
+
+    {
+        "id":170,
+        "author":"Voltaire",
+        "quote":"Dios nos dio el don de la vida; ahora depende de nosotros darnos el don de vivir bien."
+    },
+
+    {
+        "id":171,
+        "author":"Voltaire",
+        "quote":"La comodidad de los ricos depende de un suministro abundante de los pobres."
+    },
+
+    {
+        "id":172,
+        "author":"Voltaire",
+        "quote":"El mayor consuelo en la vida es decir lo que se piensa."
+    },
+
+    {
+        "id":173,
+        "author":"Voltaire",
+        "quote":"Rara vez somos orgullosos cuando estamos solos."
+    },
+
+    {
+        "id":174,
+        "author":"Voltaire",
+        "quote":"El amor es una tela decorada con la naturaleza y bordada por la imaginación."
+    },
+
+    {
+        "id":175,
+        "author":"Voltaire",
+        "quote":"El secreto de aburrir a la gente consiste en decirlo todo."
+    },
+
+    {
+        "id":176,
+        "author":"Voltaire",
+        "quote":"Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero."
+    },
+
+
+    {
+        "id":177,
+        "author":"Voltaire",
+        "quote":"Los hombres son iguales; y no es el nacimiento sino la virtud la que hace la diferencia."
+    },
+
+    {
+        "id":178,
+        "author":"Voltaire",
+        "quote":"El paraíso es donde estoy."
+    },
+
+    {
+        "id":179,
+        "author":"Voltaire",
+        "quote":"Tiene que ser muy ignorante para responder a todas las preguntas que se le piden."
+    },
+
+    {
+        "id":180,
+        "author":"Voltaire",
+        "quote":"Nuestro trabajo nos preserva de tres grandes males: el cansancio, el vicio y la necesidad."
+    },
+
+    {
+        "id":181,
+        "author":"Voltaire",
+        "quote":"Un gran uso de las palabras es ocultar nuestros pensamientos."
+    },
+
+    {
+        "id":182,
+        "author":"Voltaire",
+        "quote":"Todos los razonamientos de los hombres no valen un sentimiento de las mujeres."
+    },
+
+    {
+        "id":183,
+        "author":"Voltaire",
+        "quote":"Quien no tiene toda la inteligencia de su edad, tiene toda su desgracia."
+    },
+
+    {
+        "id":184,
+        "author":"Voltaire",
+        "quote":"Yo no estoy de acuerdo con lo que usted dice, pero me pelearía para que usted pudiera decirlo."
+    },
+
+    {
+        "id":185,
+        "author":"Voltaire",
+        "quote":"Detrás de cada hombre exitoso hay una mujer sorprendida."
+    },
+
+    {
+        "id":186,
+        "author":"Voltaire",
+        "quote":"Decimos una necedad y a fuerza de repetirla acabamos creyéndola."
+    },
+
+    {
+        "id":187,
+        "author":"Voltaire",
+        "quote":"Los que pueden hacer que creas absurdidades, pueden hacerte cometer atrocidades."
+    },
+
+    {
+        "id":188,
+        "author":"Voltaire",
+        "quote":"Ningún problema puede resistir el asalto del pensamiento sostenido."
+    },
+
+    {
+        "id":189,
+        "author":"Voltaire",
+        "quote":"La civilización no suprimió la barbarie; la perfeccionó e hizo más cruel y bárbara."
+    },
+
+    {
+        "id":190,
+        "author":"Voltaire",
+        "quote":"La ignorancia afirma o niega rotundamente; la ciencia duda."
+    },
+
+    {
+        "id":191,
+        "author":"Voltaire",
+        "quote":"Para el malvado, todo sirve como pretexto."
+    },
+
+    {
+        "id":192,
+        "author":"Voltaire",
+        "quote":"La naturaleza siempre ha tenido más fuerza que la educación."
+    },
+
+
+    {
+        "id":193,
+        "author":"Voltaire",
+        "quote":"Si no encontramos nada muy agradable, al menos vamos a encontrar algo nuevo."
+    },
+
+    {
+        "id":194,
+        "author":"Voltaire",
+        "quote":"Usar, no abusar… ni la abstinencia ni el exceso nunca hace al hombre feliz."
+    },
+
+    {
+        "id":195,
+        "author":"Voltaire",
+        "quote":"Siempre la felicidad nos espera en algún sitio, pero a condición de que no vayamos a buscarla."
+    },
+
+    {
+        "id":196,
+        "author":"Voltaire",
+        "quote":"¿Hay alguien tan sabio como para aprender por la experiencia de los demás?"
+    },
+
+    {
+        "id":197,
+        "author":"Voltaire",
+        "quote":"Aquel que es demasiado pequeño tiene un orgullo grande."
+    },
+
+    {
+        "id":198,
+        "author":"Voltaire",
+        "quote":"Una colección de pensamientos debe ser una farmacia donde se encuentra remedio a todos los males."
+    },
+
+    {
+        "id":199,
+        "author":"Voltaire",
+        "quote":"Los ejemplos corrigen mucho mejor que las reprimendas."
+    },
+
+    {
+        "id":200,
+        "author":"Voltaire",
+        "quote":"El secreto de no hacerse fastidioso consiste en saber cuándo detenerse."
+    },
+
+    {
+        "id":201,
+        "author":"Arthur Schopenhauer",
+        "quote":"La vida oscila como un péndulo hacia adelante y hacia atrás entre el dolor y el aburrimiento."
+    },
+
+    {
+        "id":202,
+        "author":"Arthur Schopenhauer",
+        "quote":"Sin libros el desarrollo de la civilización hubiera sido imposible."
+    },
+
+
+    {
+        "id":203,
+        "author":"Arthur Schopenhauer",
+        "quote":"No hay rosa sin espina pero sí muchas espinas sin rosa."
+    },
+
+    {
+        "id":204,
+        "author":"Arthur Schopenhauer",
+        "quote":"El talento alcanza un objetivo que nadie más puede alcanzar. El genio golpea un objetivo que nadie más puede ver."
+    },
+
+    {
+        "id":205,
+        "author":"Arthur Schopenhauer",
+        "quote":"Comprar libros sería algo bueno si también pudiéramos comprar el tiempo para leerlos."
+    },
+
+    {
+        "id":206,
+        "author":"Arthur Schopenhauer",
+        "quote":"Lo que inquieta y deprime a los jóvenes es la búsqueda de la felicidad con el firme supuesto de que hay que encontrarla en la vida."
+    },
+
+    {
+        "id":207,
+        "author":"Arthur Schopenhauer",
+        "quote":"El sentido del humor es la única cualidad divina del hombre."
+    },
+
+    {
+        "id":208,
+        "author":"Arthur Schopenhauer",
+        "quote":"Todo lo que sucede, sucede por necesidad."
+    },
+
+    {
+        "id":209,
+        "author":"Arthur Schopenhauer",
+        "quote":"Hay algo en nosotros que es más sabio que nuestra cabeza."
+    },
+
+    {
+        "id":210,
+        "author":"Arthur Schopenhauer",
+        "quote":"Es una cosa sabia ser cortés; en consecuencia, es una estupidez ser grosero."
+    },
+
+
+    {
+        "id":211,
+        "author":"Aristóteles",
+        "quote":"Los que saben, hacen. Los que entienden, enseñan"
+    },
+
+    {
+        "id":212,
+        "author":"Aristóteles",
+        "quote":"Percibir es sufrir"
+    },
+
+    {
+        "id":213,
+        "author":"Aristóteles",
+        "quote":"La victoria tiene muchas madres y la derrota es huérfana"
+    },
+
+    {
+        "id":214,
+        "author":"Aristóteles",
+        "quote":"El que es incapaz de vivir en sociedad o el que no tiene necesidad porque tiene suficiente consigo mismo, debe ser o una bestia o un dios"
+    },
+
+    {
+        "id":215,
+        "author":"Aristóteles",
+        "quote":"Un verdadero amigo es un alma en dos cuerpos"
+    },
+
+    {
+        "id":216,
+        "author":"Aristóteles",
+        "quote":"La única señal exclusiva de conocimiento profundo es el poder de enseñar"
+    },
+
+    {
+        "id":217,
+        "author":"Aristóteles",
+        "quote":"El cambio siempre es dulce"
+    },
+
+    {
+        "id":218,
+        "author":"Aristóteles",
+        "quote":"Quien no es un buen seguidor no puede ser un buen líder"
+    },
+
+    {
+        "id":219,
+        "author":"Aristóteles",
+        "quote":"La filosofía puede enfermar a las personas"
+    },
+
+    {
+        "id":220,
+        "author":"Aristóteles",
+        "quote":"El ingenio es insolencia educada"
+    },
+
+    {
+        "id":221,
+        "author": "Blaise Pascal",
+        "quote": "¿De qué le sirve al hombre ganar el mundo si pierde su alma?"
+    },
+
+    {
+        "id":222,
+        "author": "Blaise Pascal",
+        "quote": "No vivimos nunca, sino que esperamos vivir; y disponiéndonos siempre a ser felices, es inevitable que no lo seamos nunca"
+    },
+
+    {
+        "id":223,
+        "author": "Blaise Pascal",
+        "quote": "Sólo hay dos clases de personas coherentes: los que gozan de dios porque creen en él y los que sufren porque no le poseen."
+    },
+
+    {
+        "id":224,
+        "author": "Blaise Pascal",
+        "quote": "Dos excesos: excluir la razón, no admitir más que la razón"
+    },
+
+    {
+        "id":225,
+        "author": "Blaise Pascal",
+        "quote": "¿Por qué me matas? ¿Y qué, no estás al otro lado del agua? Amigo mío, si estuvieras de este lado sería injusto matarte y yo sería un asesino. Pero, como estás al otro lado, esto es justo y yo soy un valiente. ¡Bonita justicia la que tiene por límite un río!"
+    },
+
+    {
+        "id":226,
+        "author": "Blaise Pascal",
+        "quote": "Una de las principales enfermedades del hombre es su inquieta curiosidad por conocer lo que no puede llegar a saber"
+    },
+
+    {
+        "id":227,
+        "author": "Blaise Pascal",
+        "quote": "El egoísta odia la soledad"
+    },
+
+    {
+        "id":228,
+        "author": "Blaise Pascal",
+        "quote": "Ya se han escrito todas las buenas máximas. Sólo falta ponerlas en práctica"
+    },
+
+    {
+        "id":229,
+        "author": "Blaise Pascal",
+        "quote": "¿Es la prisa la pasión de los necios?"
+    },
+
+    {
+        "id":230,
+        "author": "Blaise Pascal",
+        "quote": "El hombre se supera a sí mismo infinitamente porque siempre está en camino hacia la plenitud infinita"
+    },
+
+    {
+        "id":231,
+        "author": "Platón",
+        "quote": "El comienzo es la parte más importante del recorrido"
+    },
+
+    {
+        "id":232,
+        "author": "Platón",
+        "quote": "Siempre debe existir algo que se oponga al bien"
+    },
+
+    {
+        "id":233,
+        "author": "Platón",
+        "quote": "Es difícil distinguir los contornos de la sombra de la mentira"
+    },
+
+    {
+        "id":234,
+        "author": "Platón",
+        "quote": "Es necesaria una fuerte consciencia moral para conocer la verdad"
+    },
+
+    {
+        "id":235,
+        "author": "Platón",
+        "quote": "La música da alma al universo"
+    },
+
+    {
+        "id":236,
+        "author": "Platón",
+        "quote": "La poesía está más cerca de la verdad vital que la historia"
+    },
+
+    {
+        "id":237,
+        "author": "Platón",
+        "quote": "Cada hombre puede dañar a alguien, pero no todo el mundo puede hacer el bien"
+    },
+
+    {
+        "id":238,
+        "author": "Platón",
+        "quote": "Las piedras más grandes no pueden quedar bien asentadas sin contar con las más pequeñas"
+    },
+
+    {
+        "id":239,
+        "author": "Platón",
+        "quote": "Cada lágrima derramada revela a los mortales una verdad"
+    },
+
+    {
+        "id":240,
+        "author": "Platón",
+        "quote": "Existen tres clases de hombres: amantes de la sabiduría, amantes del honor, y amantes de la ganancia"
+    },
+
+    {
+        "id":241,
+        "author": "François de La Rochefoucauld",
+        "quote": "Pasa con el verdadero amor como con los aparecidos; todo el mundo habla de ellos, pero muy pocos los han visto."
+    },
+
+    {
+        "id":242,
+        "author": "François de La Rochefoucauld",
+        "quote": "El medio más fácil para ser engañado es creerse más listo que los demás."
+    },
+
+    {
+        "id":243,
+        "author": "François de La Rochefoucauld",
+        "quote": "La solemnidad es un truco del cuerpo para disimular los defectos de la mente."
+    },
+
+    {
+        "id":244,
+        "author": "François de La Rochefoucauld",
+        "quote": "Insensato, es el nombre que generalmente damos a aquellos que no piensan como nosotros."
+    },
+
+    {
+        "id":245,
+        "author": "François de La Rochefoucauld",
+        "quote": "Si juzgamos el amor por la mayor parte de sus efectos, se parece más al odio que a la amistad."
+    },
+
+    {
+        "id":246,
+        "author": "François de La Rochefoucauld",
+        "quote": "Nunca somos tan felices ni tan desdichados como nosotros creemos."
+    },
+
+    {
+        "id":247,
+        "author": "François de La Rochefoucauld",
+        "quote": "La sobriedad es el culto al cuerpo que impide atiborrarse de comida."
+    },
+
+    {
+        "id":248,
+        "author": "François de La Rochefoucauld",
+        "quote": "A veces creemos odiar la adulación y lo que se odia es la manera de adular."
+    },
+
+    {
+        "id":249,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es más vergonzoso desconfiar de los amigos, que ser engañado por ellos."
+    },
+
+    {
+        "id":250,
+        "author": "François de La Rochefoucauld",
+        "quote": "A los viejos les gusta dar buenos consejos, para consolarse de no poder dar malos ejemplos."
+    },
+
+    {
+        "id":251,
+        "author": "François de La Rochefoucauld",
+        "quote": "Vengarse de una ofensa es ponerse al nivel de los enemigos; perdonársela es hacerse superior a ellos."
+    },
+
+    {
+        "id":252,
+        "author": "François de La Rochefoucauld",
+        "quote": "A veces un necio tiene talento, pero nunca buen juicio."
+    },
+
+    {
+        "id":253,
+        "author": "François de La Rochefoucauld",
+        "quote": "Cada edad de la vida es nueva para nosotros; no importa cuántos años tengamos, aún nos aqueja la inexperiencia."
+    },
+
+    {
+        "id":254,
+        "author": "François de La Rochefoucauld",
+        "quote": "El temperamento determina con frecuencia el valor de los hombres y la virtud de las mujeres."
+    },
+
+    {
+        "id":255,
+        "author": "François de La Rochefoucauld",
+        "quote": "La filosofía triunfa con facilidad sobre las desventuras pasadas y futuras, pero las desventuras presentes triunfan sobre la filosofía."
+    },
+
+    {
+        "id":256,
+        "author": "François de La Rochefoucauld",
+        "quote": "La duración de nuestras pasiones depende tan poco de nosotros como la duración de nuestra vida."
+    },
+
+    {
+        "id":257,
+        "author": "François de La Rochefoucauld",
+        "quote": "Las pasiones engendran a menudo otras que son sus contrarias: la avaricia produce a veces la prodigalidad, y la prodigalidad la avaricia; a menudo somos firmes por ser débiles, y audaces por cobardía."
+    },
+
+    {
+        "id":258,
+        "author": "François de La Rochefoucauld",
+        "quote": "La adulación es una especie de mal dinero, para lo que nuestra vanidad nos da moneda."
+    },
+
+    {
+        "id":259,
+        "author": "François de La Rochefoucauld",
+        "quote": "Algunas cosas falsas reproducen tan bien la verdad que sería un error de juicio no dejarse engañar por ellas."
+    },
+
+    {
+        "id":260,
+        "author": "François de La Rochefoucauld",
+        "quote": "Para tener éxito debemos hacer todo lo posible por parecer exitosos."
+    },
+
+    {
+        "id":261,
+        "author": "François de La Rochefoucauld",
+        "quote": "Comer es una necesidad, pero comer de forma inteligente es un arte."
+    },
+
+    {
+        "id":262,
+        "author": "François de La Rochefoucauld",
+        "quote": "La virtud no iría muy lejos si la vanidad no la hiciese compañía."
+    },
+
+    {
+        "id":263,
+        "author": "François de La Rochefoucauld",
+        "quote": "Lo que hace que los amantes no se aburran nunca de estar juntos es que se pasan el tiempo hablando siempre de sí mismos."
+    },
+
+    {
+        "id":264,
+        "author": "François de La Rochefoucauld",
+        "quote": "Establecemos reglas para los demás y excepciones para nosotros."
+    },
+
+    {
+        "id":265,
+        "author": "François de La Rochefoucauld",
+        "quote": "Se perdona mientras se ama."
+    },
+
+    {
+        "id":266,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es tan frecuente que cambien los gustos, como extraordinario que varíen las inclinaciones."
+    },
+
+    {
+        "id":267,
+        "author": "François de La Rochefoucauld",
+        "quote": "La hipocresía es el homenaje que el vicio paga a la virtud."
+    },
+
+    {
+        "id":268,
+        "author": "François de La Rochefoucauld",
+        "quote": "El halagador es el único orador que siempre nos convence."
+    },
+
+    {
+        "id":269,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es necesario tener tanta discreción para dar consejos como docilidad para recibirlos."
+    },
+
+    {
+        "id":270,
+        "author": "François de La Rochefoucauld",
+        "quote": "Si en algunos hombres no aparece el lado ridículo, es que lo hemos buscado bien."
+    },
+
+    {
+        "id":271,
+        "author": "François de La Rochefoucauld",
+        "quote": "Hay defectos que, bien manejados, brillan más que la misma virtud."
+    },
+
+    {
+        "id":272,
+        "author": "François de La Rochefoucauld",
+        "quote": "La libre comunicación de los pensamientos y las opiniones es uno de los derechos más preciados por el hombre."
+    },
+
+    {
+        "id":273,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es una gran estupidez querer ser exclusivamente sabio."
+    },
+
+    {
+        "id":274,
+        "author": "François de La Rochefoucauld",
+        "quote": "Nuestra envidia dura siempre más que la dicha de aquellos que envidiamos."
+    },
+
+    {
+        "id":275,
+        "author": "François de La Rochefoucauld",
+        "quote": "Todos poseemos suficiente fortaleza para soportar la desdicha ajena."
+    },
+
+    {
+        "id":276,
+        "author": "François de La Rochefoucauld",
+        "quote": "En el amor, el engaño generalmente sobrepasa a la desconfianza."
+    },
+
+    {
+        "id":277,
+        "author": "François de La Rochefoucauld",
+        "quote": "Hay pocas mujeres cuyos encantos sobrevivan a su belleza."
+    },
+
+    {
+        "id":278,
+        "author": "François de La Rochefoucauld",
+        "quote": "Lo que pareciera ser generosidad a menudo no es más que una ambición disfrazada, que no da importancia a un pequeño interés con tal de asegurar uno grande."
+    },
+
+    {
+        "id":279,
+        "author": "François de La Rochefoucauld",
+        "quote": "Aquellos que se aplican a asuntos triviales comúnmente llegan a ser incapaces de los grandes."
+    },
+
+    {
+        "id":280,
+        "author": "François de La Rochefoucauld",
+        "quote": "La mayoría de nuestras faltas son más perdonables que los medios que utilizamos para ocultarlas."
+    },
+
+    {
+        "id":281,
+        "author": "François de La Rochefoucauld",
+        "quote": "Por mucho que nos esforcemos por cubrir las pasiones con apariencias de piedad y de honor, siempre se manifiestan a través de esos velos."
+    },
+
+    {
+        "id":282,
+        "author": "François de La Rochefoucauld",
+        "quote": "Las pasiones son los únicos oradores que siempre persuaden. Son como un arte de la naturaleza cuyas reglas son infalibles; y el hombre más romo cuando le domina la pasión persuade mejor que el más elocuente que carece de ella."
+    },
+
+    {
+        "id":283,
+        "author": "François de La Rochefoucauld",
+        "quote": "El amor propio es más ingenioso que el hombre más ingenioso de este mundo."
+    },
+
+    {
+        "id":284,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es mayor la pereza de nuestro espíritu que la de nuestro cuerpo."
+    },
+
+    {
+        "id":285,
+        "author": "François de La Rochefoucauld",
+        "quote": "Cuando nuestro odio es demasiado vivo, nos coloca por debajo de lo que odiamos."
+    },
+
+    {
+        "id":286,
+        "author": "François de La Rochefoucauld",
+        "quote": "La obstinación nace de la estrechez de espíritu."
+    },
+
+    {
+        "id":287,
+        "author": "François de La Rochefoucauld",
+        "quote": "A veces damos consejos, pero no enseñamos con nuestra conducta."
+    },
+
+    {
+        "id":288,
+        "author": "François de La Rochefoucauld",
+        "quote": "La sinceridad es una efusión del corazón. Muy pocos la tienen; y la que ordinariamente vemos no es sino un refinado disimulo para ganar la confianza de los demás."
+    },
+
+    {
+        "id":289,
+        "author": "François de La Rochefoucauld",
+        "quote": "Los espíritus mediocres condenan generalmente todo aquello que no está a su alcance."
+    },
+
+    {
+        "id":290,
+        "author": "François de La Rochefoucauld",
+        "quote": "Es más fácil ser sabios con otros que con nosotros mismos."
+    },
+
+    {
+        "id":291,
+        "author": "François de La Rochefoucauld",
+        "quote": "Si no tuviéramos defectos no sentiríamos tanto placer descubriendo los de los demás."
+    },
+
+    {
+        "id":292,
+        "author": "François de La Rochefoucauld",
+        "quote": "El valor perfecto consiste en hacer, sin testigos, lo que seríamos capaces de hacer delante de todo el mundo."
+    },
+
+    {
+        "id":293,
+        "author": "François de La Rochefoucauld",
+        "quote": "El interés, que ciega a unos, deslumbra a otros."
+    },
+
+    {
+        "id":294,
+        "author": "François de La Rochefoucauld",
+        "quote": "Conocer las cosas que lo hacen a uno desgraciado, ya es una especie de felicidad."
+    },
+
+    {
+        "id":295,
+        "author": "François de La Rochefoucauld",
+        "quote": "La verdadera prueba de que se ha nacido con grandes cualidades estriba en haber nacido sin envidia."
+    },
+
+    {
+        "id":296,
+        "author": "François de La Rochefoucauld",
+        "quote": "El amor, como el fuego, no puede subsistir sin un movimiento continuo y muere en cuanto deja de esperar o de temer."
+    },
+
+    {
+        "id":297,
+        "author": "François de La Rochefoucauld",
+        "quote": "Estamos tan acostumbrados a disfrazarnos para los demás, que al final nos disfrazamos para nosotros mismos."
+    },
+
+    {
+        "id":298,
+        "author": "François de La Rochefoucauld",
+        "quote": "La intención de no engañar nunca nos expone a ser engañados muchas veces."
+    },
+
+    {
+        "id":299,
+        "author": "François de La Rochefoucauld",
+        "quote": "Si no tenemos paz dentro de nosotros, de nada sirve buscarla fuera."
+    },
+
+    {
+        "id":300,
+        "author": "François de La Rochefoucauld",
+        "quote": "Tres clases hay de ignorancia: no saber lo que debiera saberse, saber mal lo que se sabe, y saber lo que no debiera saberse."
     }
+
+
 
 
 
