@@ -15,15 +15,28 @@ function App() {
     setIndex(newIndex);
   };
 
+function ChangeTheme(){
+  const [index, setIndex] = useState(0);
+
+  const changeTheme = () => {
+    let newIndex;
+    
+  }
+}
+
+
+
 
   return (
     <>
-      <div className='main-container'>
-        <p className='quote'>{quotes[index].quote}</p>
+
+
+      <div className='main-container main-light' id='main-container'>
+        <p className='quote quote-light' id='quote'>{quotes[index].quote}</p>
         <br />
-        <hr className='line'></hr>
-        <p className='signature'>{quotes[index].author}</p>
-        <button className='btn' onClick={changeQuotes}></button>
+        <hr className='line line-light' id='line'></hr>
+        <p className='signature signature-light' id='signature'>{quotes[index].author}</p>
+        <button className='btn btn-light' id='btn' onClick={changeQuotes}></button>
       </div>
       
     </>

@@ -1800,7 +1800,1266 @@
         "id":300,
         "author": "François de La Rochefoucauld",
         "quote": "Tres clases hay de ignorancia: no saber lo que debiera saberse, saber mal lo que se sabe, y saber lo que no debiera saberse."
+    },
+
+    {
+        "id":301,
+        "author":"John Locke",
+        "quote":"La fortaleza es la protección de las demás virtudes"
+    },
+
+    {
+        "id":302,
+        "author":"John Locke",
+        "quote":"Las leyes se hicieron para los hombres y no los hombres para las leyes"
+    },
+
+    {
+        "id":303,
+        "author":"John Locke",
+        "quote":"Donde no hay propiedad no hay justicia"
+    },
+
+    {
+        "id":304,
+        "author":"John Locke",
+        "quote":"Las acciones humanas son las intérpretes de nuestros pensamientos"
+    },
+
+    {
+        "id":305,
+        "author":"John Locke",
+        "quote":"Todo aquello que nos preocupe nos tendrá controlados"
+    },
+
+    {
+        "id":306,
+        "author":"John Locke",
+        "quote":"El hombre nace libre pero en todos lados está encadenado"
+    },
+
+    {
+        "id":307,
+        "author":"John Locke",
+        "quote":"La felicidad humana es una disposición de la mente, no una condición de las circunstancias"
+    },
+
+    {
+        "id":308,
+        "author":"John Locke",
+        "quote":"Una cosa es demostrar a un hombre que está equivocado, otra es situarlo en posesión de la verdad"
+    },
+
+    {
+        "id":309,
+        "author":"John Locke",
+        "quote":"Las personas somos camaleones, nuestro tono y el color de nuestro carácter se amolda a aquellos que están a nuestro alrededor"
+    },
+
+    {
+        "id":310,
+        "author":"John Locke",
+        "quote":"Pensar amuebla la mente solo con materiales de conocimiento; es pensando que hacemos lo que leemos nuestro"
+    },
+
+    {
+        "id":311,
+        "author":"John Locke",
+        "quote":"Nadie tiene derecho sobre la propiedad de una persona excepto ella misma"
+    },
+
+    {
+        "id":312,
+        "author":"John Locke",
+        "quote":"Hay que perder la mitad del tiempo para poder emplear la otra mitad"
+    },
+
+    {
+        "id":313,
+        "author":"John Locke",
+        "quote":"El conocimiento es la única defensa ante el peligroso mundo"
+    },
+
+    {
+        "id":314,
+        "author":"John Locke",
+        "quote":"Los padres se preguntan por qué los arroyos son amargos, cuando ellos mismos envenenan la fuente"
+    },
+
+    {
+        "id":315,
+        "author":"John Locke",
+        "quote":"El conocimiento de ningún hombre de aquí puede ir más allá de su experiencia"
+    },
+
+    {
+        "id":316,
+        "author":"John Locke",
+        "quote":"Una mente sana en un cuerpo sano, es lo que completa de un estado feliz en este mundo"
+    },
+
+    {
+        "id":317,
+        "author":"John Locke",
+        "quote":"El gobierno no tiene otro fin que la preservación de la propiedad"
+    },
+
+    {
+        "id":318,
+        "author":"John Locke",
+        "quote":"El que quiera seriamente disponerse a la búsqueda de la verdad, deberá preparar su mente para amarla"
+    },
+
+    {
+        "id":319,
+        "author":"John Locke",
+        "quote":"La educación comienza al caballero, pero leer, la buena compañía y la reflexión lo deben finalizar"
+    },
+
+    {
+        "id":320,
+        "author":"John Locke",
+        "quote":"Es más fácil mandar que enseñar"
+    },
+
+    {
+        "id":321,
+        "author":"John Locke",
+        "quote":"No hay doctrina ajena que en esto pueda superar a la propia experiencia"
+    },
+
+    {
+        "id":322,
+        "author":"John Locke",
+        "quote":"No puede haber mayor rudeza que interrumpir otro en la corriente de su discurso"
+    },
+
+    {
+        "id":323,
+        "author":"John Locke",
+        "quote":"Frecuentemente hay más que aprender de las preguntas inesperadas de los niños que de los discursos de los hombres"
+    },
+
+    {
+        "id":324,
+        "author":"John Locke",
+        "quote":"La ocupación última del hombre es ser feliz"
+    },
+
+    {
+        "id":325,
+        "author":"John Locke",
+        "quote":"Las nuevas opiniones siempre son sospechosas, y normalmente se rechazan"
+    },
+
+    {
+        "id":326,
+        "author":"John Locke",
+        "quote":"La protesta es el derecho de la gente"
+    },
+
+    {
+        "id":327,
+        "author":"John Locke",
+        "quote":"Los antiguos dejaron mucho a la industria y sagacidad del tiempo venidero"
+    },
+
+    {
+        "id":328,
+        "author":"John Locke",
+        "quote":"La razón por la que los hombres entran en la sociedad es para preservar su propiedad"
+    },
+
+    {
+        "id":329,
+        "author":"John Locke",
+        "quote":"Nacemos libres y ningún poder de la tierra puede sujetarnos, como no sea nuestro propio consentimiento"
+    },
+
+    {
+        "id":330,
+        "author":"John Locke",
+        "quote":"Toda riqueza es el producto del trabajo"
+    },
+
+    {
+        "id":331,
+        "author":"John Locke",
+        "quote":"El fin de los hombres políticos es la preservación de su propiedad"
+    },
+
+    {
+        "id":332,
+        "author":"John Locke",
+        "quote":"El poder debe gobernar por leyes declaradas y bien recibidas"
+    },
+
+    {
+        "id":333,
+        "author":"John Locke",
+        "quote":"Cada cual es ortodoxo con respecto a sí mismo"
+    },
+
+    {
+        "id":334,
+        "author":"John Locke",
+        "quote":"Por república entiendo constantemente cualquier comunidad independiente"
+    },
+
+    {
+        "id":335,
+        "author":"John Locke",
+        "quote":"Nuestra ocupación aquí no es conocer todas las cosas, sino aquellas que afectan a nuestra conducta"
+    },
+
+    {
+        "id":336,
+        "author":"John Locke",
+        "quote":"Aquello que es dinámico y aleatorio es confuso. En el medio yace el arte"
+    },
+
+    {
+        "id":337,
+        "author":"John Locke",
+        "quote":"Si todos caminamos por el mismo paso, entonces el camino aparece"
+    },
+
+    {
+        "id":338,
+        "author":"John Locke",
+        "quote":"Un hombre excelente es invariable en todos los sentidos"
+    },
+
+    {
+        "id":339,
+        "author":"John Locke",
+        "quote":"¿Cuánto tiempo has tenido esas palabras en tu cabeza esperando poder decirlas?"
+    },
+
+    {
+        "id":340,
+        "author":"John Locke",
+        "quote":"Ensoñación es cuando las ideas flotan en nuestra mente sin reflexión o consideración del entendimiento"
+    },
+
+    {
+        "id":341,
+        "author":"John Locke",
+        "quote":"Es más fácil dirigir que enseñar"
+    },
+
+    {
+        "id":342,
+        "author":"John Locke",
+        "quote":"En todas las épocas, ha perturbado a la humanidad no el poder en el mundo, sino quién debe tenerlo"
+    },
+
+    {
+        "id":343,
+        "author":"John Locke",
+        "quote":"Pretendo no enseñar, sino preguntar"
+    },
+
+    {
+        "id":344,
+        "author":"John Locke",
+        "quote":"El fin de la ley es preservar o ampliar la libertad"
+    },
+
+    {
+        "id":345,
+        "author":"John Locke",
+        "quote":"El villano, como las vigas de un equilibrio, siempre está variando"
+    },
+
+    {
+        "id":346,
+        "author":"John Locke",
+        "quote":"Todos los hombres están propensos a equivocarse; y la mayoría bajo la tentación de hacerlo"
+    },
+
+    {
+        "id":347,
+        "author":"John Locke",
+        "quote":"Puedo confesar que la sensación externa e interna, son los únicos pasajes que puedo encontrar del conocimiento a la comprensión"
+    },
+
+    {
+        "id":348,
+        "author":"John Locke",
+        "quote":"El legislativo no puede transferir el poder de hacer leyes a otras manos"
+    },
+
+    {
+        "id":349,
+        "author":"John Locke",
+        "quote":"La esperanza de una felicidad eterna e incomprensible en otro mundo, es cosa que también lleva consigo el placer constante"
+    },
+
+    {
+        "id":350,
+        "author":"John Locke",
+        "quote":"Al ser todos iguales nadie debe dañar a otro en su vida, la salud, la libertad o posesiones"
+    },
+
+    {
+        "id":351,
+        "author":"John Locke",
+        "quote":"Dios ha dotado a los hombres de lenguaje para que sea el gran instrumento y lazo común de la sociedad"
+    },
+
+    {
+        "id":352,
+        "author":"John Locke",
+        "quote":"Tendríamos menos disputas en el mundo si se tomaran las palabras por lo que son, signos de nuestras ideas solamente"
+    },
+
+    {
+        "id":353,
+        "author":"John Locke",
+        "quote":"Aquello que es estático y repetitivo es aburrido"
+    },
+
+    {
+        "id":354,
+        "author":"John Locke",
+        "quote":"Nadie puede transferir a otro más poder del que encerrare en sí"
+    },
+
+    {
+        "id":355,
+        "author":"John Locke",
+        "quote":"Dios ha creado al hombre como una animal sociable, bajo la necesidad de convivir con los seres de su propia especie"
+    },
+
+    {
+        "id":356,
+        "author":"John Locke",
+        "quote":"El único elemento que no tiene propiedad, es la libertad de los hombres"
+    },
+
+    {
+        "id":357,
+        "author":"John Locke",
+        "quote":"Todo lo referente a la historia son matanzas y peleas"
+    },
+
+    {
+        "id":358,
+        "author":"John Locke",
+        "quote":"Los gobernantes no son más que los clientes de los conciudadanos"
+    },
+
+    {
+        "id":359,
+        "author":"John Locke",
+        "quote":"Es con la tolerancia donde se consiguen grandes hitos colectivos"
+    },
+
+    {
+        "id":360,
+        "author":"John Locke",
+        "quote":"La cabeza y conocimiento es lo único que nos convierte en hombres"
+    },
+
+    {
+        "id":361,
+        "author":"John Locke",
+        "quote":"El maestro debe enseñar al alumno a amar y apreciar el conocimiento"
+    },
+
+    {
+        "id":362,
+        "author":"John Locke",
+        "quote":"Siempre estamos más dispuestos a mentir que a decir la verdad"
+    },
+
+    {
+        "id":363,
+        "author":"John Locke",
+        "quote":"No hay nada en el intelecto que no estuviera antes en los sentidos"
+    },
+
+    {
+        "id":364,
+        "author":"John Locke",
+        "quote":"Sólo existe un camino hacia el cielo"
+    },
+
+    {
+        "id":365,
+        "author":"John Locke",
+        "quote":"La identidad personal depende de la conciencia"
+    },
+
+    {
+        "id":366,
+        "author":"John Locke",
+        "quote":"Las bestias no abstraen"
+    },
+
+    {
+        "id":367,
+        "author":"John Locke",
+        "quote":"Si dejamos que los otros controlen nuestros pensamientos jamás controlaremos nuestro destino"
+    },
+
+    {
+        "id":368,
+        "author":"John Locke",
+        "quote":"Las nuevas opiniones siempre son sospechosas, y generalmente contrapuestas, sin otra razón que no sea porque no son comunes"
+    },
+
+    {
+        "id":369,
+        "author":"John Locke",
+        "quote":"Prejuzgar las nociones de otros hombres antes de que las hayamos examinado no es mostrar su oscuridad sino sacarnos los ojos."
+    },
+
+    {
+        "id":370,
+        "author":"John Locke",
+        "quote":"Cuando la gente camina todo el tiempo, en el mismo lugar, aparece un camino"
+    },
+
+    {
+        "id":371,
+        "author": "Martin Heidegger",
+        "quote": "Trascendencia constituye individualidad."
+    },
+    
+    {
+        "id":372,
+        "author": "Martin Heidegger",
+        "quote": "La angustia es la disposición fundamental que nos coloca ante la nada."
+    },
+
+    {
+        "id":373,
+        "author": "Martin Heidegger",
+        "quote": "El cuerpo humano es algo esencialmente distinto a un organismo animal."
+    },
+
+    {
+        "id":374,
+        "author": "Martin Heidegger",
+        "quote": "Muy pronto la televisión, para ejercer su influencia soberana, recorrerá en todos los sentidos toda la maquinaria y todo el bullicio de las relaciones humanas."
+    },
+
+    {
+        "id":375,
+        "author": "Martin Heidegger",
+        "quote": "Caminos, no obras."
+    },
+
+    {
+        "id":376,
+        "author": "Martin Heidegger",
+        "quote": "Los mortales habitan en la medida en que reciben el cielo como cielo; en la medida en que dejan al sol y a la luna seguir su viaje, a las estrellas su ruta, a las estaciones del año su bendición y su injuria; en la medida en que no convierten la noche en día, ni hacen del día una carrera sin reposo."
+    },
+
+    {
+        "id":377,
+        "author": "Martin Heidegger",
+        "quote": "Lo distintivo del pensar metafísico -que busca el fundamento del ente- es que, partiendo de lo presente, lo representa en su presencialidad y lo muestra, desde su fundamento, como fundado."
+    },
+
+    {
+        "id":378,
+        "author": "Martin Heidegger",
+        "quote": "La filosofía implica una movilidad libre en el pensamiento, es un acto creador que disuelve las ideologías."
+    },
+
+    {
+        "id":379,
+        "author": "Martin Heidegger",
+        "quote": "Lo verdadero, ya sea una cosa verdadera o una proposición verdadera, es aquello que concuerda, lo concordante."
+    },
+
+    {
+        "id":380,
+        "author": "Martin Heidegger",
+        "quote": "Poetizar es propiamente dejar habitar. Ahora bien, ¿por qué medio llegamos a tener un habitáculo? Por medio del edificar. Poetizar, como dejar habitar, es un construir"
+    },
+
+    {
+        "id":381,
+        "author": "Martin Heidegger",
+        "quote": "Cantar y pensar son los troncos cercanos del poetizar. Crecen del ser y se alzan hasta tocar su verdad."
+    },
+
+    {
+        "id":382,
+        "author": "Martin Heidegger",
+        "quote": "Quien piensa a lo grande tiene que equivocarse a lo grande."
+    },
+
+    {
+        "id":383,
+        "author": "Martin Heidegger",
+        "quote": "Todo lo grande está en medio de la tempestad."
+    },
+
+    {
+        "id":384,
+        "author": "Martin Heidegger",
+        "quote": "Cuando el tiempo sólo sea rapidez, instantaneidad y simultaneidad, mientras que lo temporal, entendido como acontecer histórico, haya desaparecido de la existencia de todos los pueblos, entonces, justamente entonces, volverán a atravesar todo este aquelarre como fantasmas las preguntas: ¿para qué?, ¿hacia dónde?, ¿y después qué?"
+    },
+
+    {
+        "id":385,
+        "author": "Martin Heidegger",
+        "quote": "La gran tragedia del mundo es que no cultiva la memoria, y por tanto olvida a los maestros."
+    },
+
+    {
+        "id":386,
+        "author": "Martin Heidegger",
+        "quote": "No se puede probar nada en el reino del pensamiento; pero el pensamiento puede explicar muchas cosas."
+    },
+
+    {
+        "id":387,
+        "author": "Martin Heidegger",
+        "quote": "Lo más antiguo de lo antiguo llega desde atrás a nuestro pensar y, sin embargo, se nos adelanta. Por eso el pensar se detiene en la aparición de lo que fue, y es recuerdo."
+    },
+
+    {
+        "id":388,
+        "author": "Martin Heidegger",
+        "quote": "Las Artes se convierten en instrumentos de información manipulados y manipuladores."
+    },
+
+    {
+        "id":389,
+        "author": "Martin Heidegger",
+        "quote": "Sólo hay mundo donde hay lenguaje."
+    },
+
+    {
+        "id":390,
+        "author": "Martin Heidegger",
+        "quote": "Cuando un hombre piensa a lo grande se equivoca a lo grande."
+    },
+
+    {
+        "id":391,
+        "author": "Martin Heidegger",
+        "quote": "Ninguna época ha sabido tantas y tan diversas cosas del hombre como la nuestra. Pero en verdad, nunca se ha sabido menos qué es el hombre."
+    },
+
+    {
+        "id":392,
+        "author": "Martin Heidegger",
+        "quote": "Hacerse inteligible es un suicidio para la filosofía."
+    },
+
+    {
+        "id":393,
+        "author": "Martin Heidegger",
+        "quote": "Dime cómo lees y te diré quién eres."
+    },
+
+    {
+        "id":394,
+        "author": "Martin Heidegger",
+        "quote": "Cualquiera puede alcanzar su máximo potencial, quienes estamos predeterminados, pero el camino que seguimos siempre es de nuestra elección."
+    },
+
+    {
+        "id":395,
+        "author": "Martin Heidegger",
+        "quote": "Si llevo la muerte a mi vida, la reconozco y la enfrento directamente, me liberaré de la ansiedad de la muerte y de la mezquindad de la vida, y solo así seré libre para convertirme en yo misma."
+    },
+
+    {
+        "id":396,
+        "author": "Martin Heidegger",
+        "quote": "Lo más interesante en nuestro tiempo de reflexión es que todavía no estamos pensando."
+    },
+
+    {
+        "id":397,
+        "author": "Martin Heidegger",
+        "quote": "Nunca debemos permitir que nuestros miedos o las expectativas de los demás establezcan las fronteras de nuestro destino. Tu destino no puede ser cambiado pero, puede ser desafiado."
+    },
+
+    {
+        "id":398,
+        "author": "Martin Heidegger",
+        "quote": "El hombre actúa como si fuera el modelador y maestro del lenguaje, mientras que, de hecho, el lenguaje sigue siendo el maestro del hombre."
+    },
+
+    {
+        "id":399,
+        "author": "Martin Heidegger",
+        "quote": "Cada hombre nace como muchos hombres y muere como uno solo."
+    },
+
+    {
+        "id":400,
+        "author": "Martin Heidegger",
+        "quote": "Todo el mundo es el otro y nadie es él mismo."
+    },
+
+    {
+        "id":401,
+        "author": "Martin Heidegger",
+        "quote": "¿Por qué hay seres en absoluto, en lugar de Nada?"
+    },
+
+    {
+        "id":402,
+        "author": "Martin Heidegger",
+        "quote": "El pensamiento solo comienza en el momento en que hemos llegado a saber que la Razón, glorificada durante siglos, es el adversario más obstinado de pensar."
+    },
+
+    {
+        "id":403,
+        "author": "Martin Heidegger",
+        "quote": "El anhelo es la agonía de la cercanía de lo lejano."
+    },
+
+    {
+        "id":404,
+        "author": "Martin Heidegger",
+        "quote": "¿Por qué el amor más allá de toda medida de otras posibilidades humanas es tan rico y una carga tan dulce para quien ha sido golpeado por él? Porque nos cambiamos a nosotros mismos en aquello que amamos y, sin embargo, permanecemos nosotros mismos. Entonces nos gustaría agradecer al amado, pero no encontrar nada que lo haría adecuadamente."
+    },
+
+    {
+        "id":405,
+        "author": "Martin Heidegger",
+        "quote": "Los rangos posibles más altos que los reales."
+    },
+
+    {
+        "id":406,
+        "author": "Martin Heidegger",
+        "quote": "La libertad solo se encuentra donde hay una carga que hay que asumir. En los logros creativos, esta carga siempre representa un imperativo y una necesidad que pesa mucho sobre el estado de ánimo del hombre, por lo que llega a estar en un estado de melancolía."
+    },
+
+    {
+        "id":407,
+        "author": "Martin Heidegger",
+        "quote": "Toda acción creativa reside en un sentimiento de melancolía, ya sea que estemos claramente conscientes del hecho o no, ya sea que hablemos extensamente sobre ello o no."
+    },
+
+    {
+        "id":408,
+        "author": "Martin Heidegger",
+        "quote": "Pensar es limitarte a un solo pensamiento de que un día se detiene como una estrella en el cielo del mundo."
+    },
+
+    {
+        "id":409,
+        "author": "Martin Heidegger",
+        "quote": "Ser poeta en un tiempo indigente significa: asistir, cantar, a la huella de los dioses fugitivos. Por eso el poeta en el tiempo de la noche del mundo pronuncia lo santo."
+    },
+
+    {
+        "id":410,
+        "author": "Martin Heidegger",
+        "quote": "El ser humano no es el señor de los seres, sino el pastor del ser."
+    },
+
+    {
+        "id":411,
+        "author": "Lao Tse",
+        "quote": "Quien pretende el dominio del mundo y mejorar éste, se encamina al fracaso. El mundo es tan sagrado y vasto que no puede ser dominado. Quien lo domina lo empeora, quien lo tiene lo pierde."
+    }, 
+    
+
+    {
+        "id":412,
+        "author": "Lao Tse",
+        "quote": "Quien no es feliz con poco, no lo será con mucho."
+    }, 
+
+    {
+        "id":413,
+        "author": "Lao Tse",
+        "quote": "Aquel que obtiene una victoria sobre otro hombre, es fuerte; pero quien obtiene una victoria sobre sí mismo, es poderoso."
+    }, 
+
+    {
+        "id":414,
+        "author": "Lao Tse",
+        "quote": "Debido a un gran amor, uno es valiente."
+    }, 
+
+    {
+        "id":415,
+        "author": "Lao Tse",
+        "quote": "El que sabe, no habla; el que habla, no sabe."
+    }, 
+
+    {
+        "id":416,
+        "author": "Lao Tse",
+        "quote": "Un árbol enorme crece de un tierno retoño. Un camino de mil pasos comienza en un solo paso."
+    }, 
+
+    {
+        "id":417,
+        "author": "Lao Tse",
+        "quote": "El agradecimiento es la memoria del corazón."
+    }, 
+
+    {
+        "id":418,
+        "author": "Lao Tse",
+        "quote": "Darte cuenta de que no entiendes, es una virtud; no darte cuenta de que no entiendes, es un defecto."
+    }, 
+
+    {
+        "id":419,
+        "author": "Lao Tse",
+        "quote": "Para conducir la gente, camina detrás de ellos."
+    }, 
+
+
+    {
+        "id":420,
+        "author": "Lao Tse",
+        "quote": "Con buenas palabras se puede negociar, pero para engrandecerse, se requieren buenas obras."
+    }, 
+
+    {
+        "id":421,
+        "author": "Lao Tse",
+        "quote": "Deja de pensar y termina con tus problemas."
+    }, 
+
+    {
+        "id":422,
+        "author": "Lao Tse",
+        "quote": "Cuando sobre la tierra todos reconocen la belleza como belleza, así queda constituida la fealdad."
+    }, 
+
+    {
+        "id":423,
+        "author": "Lao Tse",
+        "quote": "No vayas contra lo que es justo, para conseguir el elogio de los demás."
+    }, 
+
+    {
+        "id":424,
+        "author": "Lao Tse",
+        "quote": "Las palabras elegantes no son sinceras; las palabras sinceras, no son elegantes."
+    }, 
+
+    {
+        "id":425,
+        "author": "Lao Tse",
+        "quote": "Observa todo lo blanco que hay en torno tuyo, pero recuerda todo lo negro que existe."
+    }, 
+
+    {
+        "id":426,
+        "author": "Lao Tse",
+        "quote": "Sólo aquellos que conocen la paz interna, pueden entregársela a otros."
+    }, 
+
+    {
+        "id":427,
+        "author": "Lao Tse",
+        "quote": "La vida es una serie de cambios naturales y espontáneos. No te resistas a ellos sólo crea dolor. Deja que la realidad sea la realidad."
+    }, 
+
+    {
+        "id":428,
+        "author": "Lao Tse",
+        "quote": "El malvado líder es aquel a quien la gente desprecia. El líder bueno es aquel a quien la gente admira."
+    }, 
+
+    {
+        "id":429,
+        "author": "Lao Tse",
+        "quote": "Diez mil cosas florecen, y entonces cada una regresa a la raíz de la que vino."
+    }, 
+
+    {
+        "id":430,
+        "author": "Lao Tse",
+        "quote": "Saber que uno no sabe, es lo mejor."
+    }, 
+
+    {
+        "id":431,
+        "author": "Lao Tse",
+        "quote": "La palabras verdaderas no son bonitas; las palabras falsas son bellas. Las buenas palabras no son persuasivas; las palabras que no son buenas, son persuasivas."
+    }, 
+
+    {
+        "id":432,
+        "author": "Lao Tse",
+        "quote": "El que mucho promete, rara vez cumple su palabra."
+    }, 
+
+    {
+        "id":433,
+        "author": "Lao Tse",
+        "quote": "Aquello que está bien establecido no se puede mover. Lo que está agarrado fuertemente, no se puede soltar. Y será honrado, de generación en generación."
+    }, 
+
+    {
+        "id":434,
+        "author": "Lao Tse",
+        "quote": "Las armas del reino no se muestran al extranjero."
+    }, 
+
+    {
+        "id":435,
+        "author": "Lao Tse",
+        "quote": "La amabilidad en palabras crea confianza. La amabilidad en el pensamiento crea profundidad. La bondad de dar crea amor."
+    }, 
+
+    {
+        "id":436,
+        "author": "Lao Tse",
+        "quote": "Preocúpate por lo que piensen los demás y siempre serás su prisionero."
+    }, 
+
+    {
+        "id":437,
+        "author": "Lao Tse",
+        "quote": "Debes rendirte a tu propio interés. Ama a los otros tanto como a ti mismo. Entonces podrás confiar en todas las cosas bajo el cielo."
+    }, 
+
+    {
+        "id":438,
+        "author": "Lao Tse",
+        "quote": "Las personas tienen hambre, esto sucede porque los que tienen autoridad comen demasiado en impuestos."
+    }, 
+
+    {
+        "id":439,
+        "author": "Lao Tse",
+        "quote": "Los que tienen conocimiento, no predicen. Los que predicen, no tienen conocimiento."
+    }, 
+
+    {
+        "id":440,
+        "author": "Lao Tse",
+        "quote": "El conocimiento es un tesoro, pero la práctica, es la clave para ello."
+    }, 
+
+    {
+        "id":441,
+        "author": "Lao Tse",
+        "quote": "Responde inteligentemente incluso al tratamiento poco inteligente."
+    }, 
+
+    {
+        "id":442,
+        "author": "Lao Tse",
+        "quote": "Las cosas suaves de la vida superan las cosas más fuertes del mundo."
+    }, 
+
+    {
+        "id":443,
+        "author": "Lao Tse",
+        "quote": "El que sabe contentarse con lo que tiene, siempre estará feliz."
+    }, 
+
+    {
+        "id":444,
+        "author": "Lao Tse",
+        "quote": "Cuando un país está lleno de conflictos, florecen los patriotas."
+    }, 
+
+    {
+        "id":445,
+        "author": "Lao Tse",
+        "quote": "Si quiere tomar, primero debes dar; este es el comienzo de la inteligencia."
+    }, 
+
+    {
+        "id":446,
+        "author": "Lao Tse",
+        "quote": "Ser profundamente amado por alguien te da fuerza, mientras que amar a alguien profundamente, te da coraje."
+    }, 
+
+    {
+        "id":447,
+        "author": "Lao Tse",
+        "quote": "El hombre sabio no acumula. Cuanto más ayuda a los otros, más se beneficia él mismo. Cuanto más da a los otros, más obtiene él mismo."
+    }, 
+
+    {
+        "id":448,
+        "author": "Lao Tse",
+        "quote": "La gente es difícil de gobernar porque tiene demasiado conocimiento."
+    }, 
+
+    {
+        "id":449,
+        "author": "Lao Tse",
+        "quote": "Pocas cosas bajo el cielo traen más beneficios que las lecciones aprendidas desde el silencio y las acciones tomadas sin haberse esforzado."
+    }, 
+
+    {
+        "id":450,
+        "author": "Lao Tse",
+        "quote": "Los enemigos del hombre no son demonios, sino seres humanos como él."
+    },
+
+
+    {
+        "id":451,
+        "author": "Confucio",
+        "quote":"Aprender sin reflexionar es malgastar la energía"
+    },
+
+
+    {
+        "id":452,
+        "author": "Confucio",
+        "quote":"Tenemos que estar en paz con nosotros mismos, si no no podemos guiar a otros en la búsqueda de la paz"
+    },
+    
+
+    {
+        "id":453,
+        "author": "Confucio",
+        "quote":"Sólo los sabios más excelentes, y los necios más acabados, son incomprensibles"
+    },
+    
+
+    {
+        "id":454,
+        "author": "Confucio",
+        "quote":"Un hombre sin virtud no puede morar mucho tiempo en la adversidad, ni tampoco en la felicidad"
+    },
+    
+
+    {
+        "id":455,
+        "author": "Confucio",
+        "quote":"Se puede quitar a un general su ejército, pero no a un hombre su voluntad"
+    },
+    
+
+    {
+        "id":456,
+        "author": "Confucio",
+        "quote":"Es posible conseguir algo luego de tres horas de pelea, pero seguro que se podrá conseguir con apenas tres palabras impregnadas de afecto"
+    },
+    
+
+    {
+        "id":457,
+        "author": "Confucio",
+        "quote":"Lo que no quieras que los otros te hagan a ti, no lo hagas a los otros"
+    },
+    
+
+    {
+        "id":458,
+        "author": "Confucio",
+        "quote":"Aprender sin pensar es inútil. Pensar sin aprender, peligroso"
+    },
+    
+
+    {
+        "id":459,
+        "author": "Confucio",
+        "quote":"Un hombre de virtuosas palabras no es siempre un hombre virtuoso"
+    },
+    
+
+    {
+        "id":460,
+        "author": "Confucio",
+        "quote":"La ignorancia es la noche de la mente: pero una noche sin luna y sin estrellas"
+    },
+    
+
+    {
+        "id":461,
+        "author": "Confucio",
+        "quote":"El hombre virtuoso descansa en la virtud, y el hombre sabio la ambiciona"
+    },
+    
+
+    {
+        "id":462,
+        "author": "Confucio",
+        "quote":"Un caballero debe avergonzarse si sus palabras son mejores que sus actos"
+    },
+    
+
+
+    {
+        "id":463,
+        "author": "Confucio",
+        "quote":"Oír o leer sin reflexionar es una ocupación inútil"
+    },
+    
+
+    {
+        "id":464,
+        "author": "Confucio",
+        "quote":"Entristécete porque tú no conoces a los hombres"
+    },
+    
+
+    {
+        "id":465,
+        "author": "Confucio",
+        "quote":"Los defectos de un hombre se adecuan siempre a su tipo de mente"
+    },
+    
+
+    {
+        "id":466,
+        "author": "Confucio",
+        "quote":"Quien gobierna por medio de su excelencia moral puede compararse a la estrella polar"
+    },
+    
+
+    {
+        "id":467,
+        "author": "Confucio",
+        "quote":"Nunca hagas apuestas. Si sabes que has de ganar, eres un pícaro; y si no lo sabes, eres tonto"
+    },
+    
+
+    {
+        "id":468,
+        "author": "Confucio",
+        "quote":"Antes de empezar un viaje de venganza cava dos tumbas"
+    },
+    
+
+    {
+        "id":469,
+        "author": "Confucio",
+        "quote":"Observa sus defectos y conocerás sus virtudes"
+    },
+    
+
+    {
+        "id":470,
+        "author": "Confucio",
+        "quote":"Ante la estrella polar, todas las demás estrellas se inclinan ante ella"
+    },
+    
+
+    {
+        "id":471,
+        "author": "Confucio",
+        "quote":"Yo no procuro conocer las preguntas; procuro conocer las respuestas"
+    },
+    
+
+    {
+        "id":472,
+        "author": "Confucio",
+        "quote":"El lenguaje artificioso y la conducta aduladora rara vez acompañan a la virtud"
+    },
+    
+
+    {
+        "id":473,
+        "author": "Confucio",
+        "quote":"Los únicos que no cambian son los sabios de primer orden y los completamente idiotas"
+    },
+    
+
+    {
+        "id":474,
+        "author": "Confucio",
+        "quote":"Exígete mucho a ti mismo y espera poco de los demás"
+    },
+    
+
+    {
+        "id":475,
+        "author": "Confucio",
+        "quote":"Si ya sabes lo que tienes que hacer y no lo haces entonces estás peor que antes"
+    },
+    
+
+    {
+        "id":476,
+        "author": "Confucio",
+        "quote":"Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he aquí el verdadero saber"
+    },
+    
+
+    {
+        "id":477,
+        "author": "Confucio",
+        "quote":"Los hombres se distinguen menos por sus cualidades naturales que por la cultura que ellos mismos se proporcionan"
+    },
+    
+
+    {
+        "id":478,
+        "author": "Confucio",
+        "quote":"La educación hace que seamos diferentes y que nos alejemos"
+    },
+    
+
+    {
+        "id":479,
+        "author": "Confucio",
+        "quote":"El mal no está en tener faltas, sino en no tratar de enmendarlas"
+    },
+    
+
+    {
+        "id":480,
+        "author": "Confucio",
+        "quote":"El hombre noble tiene una mente amplia y sin prejuicios"
+    },
+    
+
+    {
+        "id":481,
+        "author": "Confucio",
+        "quote":"¿Uno que no sepa gobernarse a sí mismo, cómo sabrá gobernar a los demás?"
+    },
+    
+
+    {
+        "id":482,
+        "author": "Confucio",
+        "quote":"El verdadero caballero es el que solo predica lo que practica"
+    },
+    
+
+    {
+        "id":483,
+        "author": "Confucio",
+        "quote":"No debes quejarte de la nieve en el tejado de tu vecino cuando también cubre el umbral de tu casa"
+    },
+    
+
+    {
+        "id":484,
+        "author": "Confucio",
+        "quote":"El hombre inferior es prejuiciado y carece de una mente amplia"
+    },
+    
+
+    {
+        "id":485,
+        "author": "Confucio",
+        "quote":"Lo que quiere el sabio, lo busca en sí mismo; el vulgo, lo busca en los demás"
+    },
+    
+
+    {
+        "id":486,
+        "author": "Confucio",
+        "quote":"La sabiduría se preocupa de ser lenta en sus discursos y diligente en sus acciones"
+    },
+    
+
+    {
+        "id":487,
+        "author": "Confucio",
+        "quote":"Los cautos rara vez se equivocan"
+    },
+    
+
+    {
+        "id":488,
+        "author": "Confucio",
+        "quote":"Aprende a vivir y sabrás morir bien"
+    },
+    
+
+    {
+        "id":489,
+        "author": "Confucio",
+        "quote":"Por muy lejos que el espíritu vaya, nunca irá más lejos que el corazón"
+    },
+    
+
+    {
+        "id":490,
+        "author": "Confucio",
+        "quote":"El silencio es el único amigo que jamás traiciona"
+    },
+    
+
+    {
+        "id":491,
+        "author": "Confucio",
+        "quote":"Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí"
+    },
+    
+
+    {
+        "id":492,
+        "author": "Confucio",
+        "quote":"Es más fácil apoderarse del comandante en jefe de un ejército que despojar a un miserable de su libertad"
+    },
+    
+
+    {
+        "id":493,
+        "author": "Confucio",
+        "quote":"Quien volviendo a hacer el camino viejo aprende el nuevo, puede considerarse un maestro"
+    },
+    
+
+    {
+        "id":494,
+        "author": "Confucio",
+        "quote":"No pretendas apagar con fuego un incendio, ni remediar con agua una inundación"
+    },
+    
+
+    {
+        "id":495,
+        "author": "Confucio",
+        "quote":"El hombre que ha cometido un error y no lo corrige comete otro error mayor"
+    },
+    
+
+    {
+        "id":496,
+        "author": "Confucio",
+        "quote":"Estudia el pasado si quieres pronosticar el futuro"
+    },
+    
+
+    {
+        "id":497,
+        "author": "Confucio",
+        "quote":"Algún dinero evita preocupaciones; mucho, las atrae"
+    },
+    
+
+    {
+        "id":498,
+        "author": "Confucio",
+        "quote":"Una voz fuerte no puede competir con una voz clara, aunque ésta sea un simple murmullo"
+    },
+    
+
+    {
+        "id":499,
+        "author": "Confucio",
+        "quote":"Arréglese al estado como se conduce a la familia, con autoridad, competencia y buen ejemplo"
+    },
+    
+
+    {
+        "id":500,
+        "author": "Confucio",
+        "quote":"Si no conoces todavía la vida, ¿cómo puede ser posible conocer la muerte?"
     }
+    
+
+    
+
+
+
 
 
 
